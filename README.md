@@ -10,6 +10,6 @@ When using database in your work, please add the citation: SUMMER: a Mendelian r
 Users can easily obatin the summary data from each cancer folder, which can be read using R function load().
 
 ## Additional links for cancer survival GWAS summary data
-#Breast Cancer (European population): https://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/oncoarray-and-combined-summary-result/gwas-summary-results-survival-2019/ (96,661 individuals); https://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/oncoarray-and-combined-summary-result/gwas-summary-results-survival-2021/ (91,686 individuals). 
-#Pan-cancer (TCGA, with eQTL effects, multi-ethnic population):
+### Breast Cancer (European population): https://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/oncoarray-and-combined-summary-result/gwas-summary-results-survival-2019/ (96,661 individuals); https://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/oncoarray-and-combined-summary-result/gwas-summary-results-survival-2021/ (91,686 individuals). 
+### Pan-cancer (TCGA, with eQTL effects, multi-ethnic population):
 http://gong_lab.hzau.edu.cn/PancanQTL/static/download/survival-eQTL_all_data (9,196 individuals across 33 cancer types).
